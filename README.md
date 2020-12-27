@@ -1,2 +1,2 @@
-# POS_Tagging with Conditional Random Fields
+# POS Tagging with Conditional Random Fields
 Part-of-speech tagging is a paramount NLP task that involves assigning a class to a word based on its use in a sentence. While POS tagging on its own does not provide any interesting application of NLP, it is nevertheless an important preliminary step to many NLP problems. For instance, POS helps provide context and meaning to words when doing sentiment analysis using Continuous Bag of Words (CBOW) or even when reconstructing sentences (word unjumbling). Various approaches have been used to do POS tagging. In this project, we created a POS tagger using Conditional Random Fields.
